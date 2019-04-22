@@ -1,0 +1,17 @@
+{
+  "order": [
+    {
+      "order": {
+        "name": "novita",
+        "alamat": "jalan b",
+        "order_items_attributes": [
+          {
+            "product_id": "1",
+            "qty": 1
+          }
+        ]
+      },
+      "id": "s0DFn-6"
+    }
+   ]
+}
